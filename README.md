@@ -1,2 +1,9 @@
-# My_python_projects
-Hi! This is my repository where I'm uploading my progress in learning Python before starting high school and advanced vocational training in Web Application Development (DAW). My goal is to become a Software Engineer.
+🐍 My Python Projects
+Hi! I'm a prospective Software Engineering student. This repository is my learning journal before starting high school and my advanced vocational training (DAW).
+
+🎯 This summer's goals:
+Master the fundamentals of Python.
+
+Complete the Meta Front-End Developer certification.
+
+Upload my first working scripts.
