@@ -1,2 +1,2 @@
 # My_python_projects
-This is a repository about my personal projects. They are not very complicated projects, but iths my best try for do applications in python
+Hi! This is my repository where I'm uploading my progress in learning Python before starting high school and advanced vocational training in Web Application Development (DAW). My goal is to become a Software Engineer.
